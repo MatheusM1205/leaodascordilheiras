@@ -1,7 +1,7 @@
 export default function Main(){
     return (
         <div>
-            <span>Teste</span>
+            <span>Oi</span>
         </div>
     )
 }
