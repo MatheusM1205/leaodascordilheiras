@@ -1,7 +1,7 @@
 export default function Main(){
     return (
         <div>
-            <span>Página Principal</span>
+            <span>Página Principal¹</span>
         </div>
     )
 }
