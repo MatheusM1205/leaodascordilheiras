@@ -1,7 +1,7 @@
-export default function Main(){
+export default function Page(){
     return (
-        <div>
-            <span>Página Principal</span>
+        <div className="container mx-auto bg-white">
+            <span>Em contrução...</span>
         </div>
     )
 }
