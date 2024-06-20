@@ -9,7 +9,7 @@ export default function Rodape(){
             <div className="basis-1/4">
                 <header className="text-slate-500 text-center">Diretoria</header>
                 <div className="p-1 rounded flex space-x-2 min-w-64">
-                    <img src="logo.jpeg" className="flex w-16 rounded-full"></img>
+                    <img src="user.png" className="flex w-16 rounded-full"></img>
                     <div className="flex-1 my-auto">
                         <span className="text-slate-100">Severino Roque Batista<br/></span>
                         <span className="text-slate-500">Presidente</span>
@@ -17,15 +17,15 @@ export default function Rodape(){
                 </div>
                 <div className="p-1 rounded flex space-x-2 min-w-64">
                     <div className="flex-1 my-auto">
-                        <span className="text-slate-100">Severino Roque Batista<br/></span>
+                        <span className="text-slate-100">Marcos Antônio de Souza<br/></span>
                         <span className="text-slate-500">Secretário</span>
                     </div>
-                    <img src="logo.jpeg" className="flex w-16 rounded-full"></img>
+                    <img src="user.png" className="flex w-16 rounded-full"></img>
                 </div>
                 <div className="p-1 rounded flex space-x-2 min-w-64">
-                    <img src="logo.jpeg" className="flex w-16 rounded-full"></img>
+                    <img src="user.png" className="flex w-16 rounded-full"></img>
                     <div className="flex-1 my-auto">
-                        <span className="text-slate-100">Severino Roque Batista<br/></span>
+                        <span className="text-slate-100">Elenilson Roque Batista<br/></span>
                         <span className="text-slate-500">Tesoureiro</span>
                     </div>
                 </div>
