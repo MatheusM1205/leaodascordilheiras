@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body{
-    background: url(../public/bg.webp);
+    background: url(../public/bg.jpg);
 }
