@@ -3,7 +3,7 @@ export default function Rodape(){
         <div className="flex bg-neutral-900 p-1 space-x-4">
             <div className="basis-1/4 *:text-slate-500 *:text-center pt-6">
                 <img src="logo.jpeg" className="flex w-24 mx-auto border-4 rounded-full"/>
-                <header>Maracatu Leão das Cordilheiras</header>
+                <header className="mt-2">Maracatu Leão das Cordilheiras</header>
                 <p>CNPJ: 69.927.382/0001/08</p>
             </div>
             <div className="basis-1/4">
