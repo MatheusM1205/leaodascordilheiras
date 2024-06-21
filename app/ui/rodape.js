@@ -6,7 +6,7 @@ export default function Rodape(){
                 <header className="mt-2">Maracatu Leão das Cordilheiras</header>
                 <p>CNPJ: 69.927.382/0001/08</p>
             </div>
-            <div className="basis-1/4">
+            <div className="basis-1/4 w-72 mx-auto">
                 <header className="text-slate-500 text-center">Diretoria</header>
                 <div className="p-1 rounded flex space-x-2 min-w-64">
                     <img src="user.png" className="flex w-16 rounded-full"></img>
@@ -32,7 +32,7 @@ export default function Rodape(){
             </div>
             <div className="basis-1/4 text-slate-500">
                 <header className="text-center">Programação</header>
-                <ul>
+                <ul className="*:ml-2">
                     <li>DD/MM - Cidade</li>
                     <li>DD/MM - Cidade</li>
                     <li>DD/MM - Cidade</li>
