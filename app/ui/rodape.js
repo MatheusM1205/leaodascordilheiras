@@ -1,6 +1,6 @@
 export default function Rodape(){
     return(
-        <div className="flex bg-neutral-900 p-1 space-x-4">
+        <div className="flex-grid fullhd:flex bg-neutral-900 p-1 fullhd:space-x-4">
             <div className="basis-1/4 *:text-slate-500 *:text-center pt-6">
                 <img src="logo.jpeg" className="flex w-24 mx-auto border-4 rounded-full"/>
                 <header className="mt-2">Maracatu Leão das Cordilheiras</header>
